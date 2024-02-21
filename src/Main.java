@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class JFT_2 {
+public class Main {
     public static void main(String[] args) {
         float accScore = 100;
         float added = 1205;
